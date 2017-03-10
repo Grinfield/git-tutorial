@@ -10,3 +10,6 @@ fix-B
 
 feature-C
 清风拂山冈，明月照大江。
+
+feature-D
+认清自己，做好自己。
